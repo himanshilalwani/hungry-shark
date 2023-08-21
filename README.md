@@ -14,8 +14,7 @@ The game is a variation of Hungry Shark Evolution. A hungry shark is in search o
 5. Displays a score bar and health bar to keep track of player’s progress and the number of lives remaining.
 6. Dedicated restart button on the end screen which is displayed once the game is over.
 
-## Screenshots
-Images used as backgrounds/sprites are not my mine.
+## Overview
 
 <img width="902" alt="Screenshot 2021-08-22 at 5 05 11 PM" src="https://user-images.githubusercontent.com/81231340/130353680-b2c8670e-9866-4ceb-b09d-ac11d2fb1636.png">
 <img width="906" alt="Screenshot 2021-08-22 at 5 07 54 PM" src="https://user-images.githubusercontent.com/81231340/130353703-345c012d-e0df-4052-8491-5f620b2964f3.png">
