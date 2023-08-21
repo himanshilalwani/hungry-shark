@@ -1,4 +1,4 @@
-# hungry-shark
+# Hungry Shark
 Used Object-Oriented Programming to design an animated game in Processing based on Python as a final project for my Introduction to Computer Science class. 
 
 ## Description
